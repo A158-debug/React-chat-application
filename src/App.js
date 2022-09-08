@@ -1,10 +1,10 @@
 import React from 'react'
-import Login from './components/Login'
+import Register from './components/Home/Register'
 import './style.scss'
 const App = () => {
   return (
     <>
-    <Login/>
+   <Register/>
     </>
   )
 }
